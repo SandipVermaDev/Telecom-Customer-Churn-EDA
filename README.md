@@ -51,7 +51,7 @@ The dataset consists of various customer attributes, including:
 ## 📌 How to Use
 1. Clone the Repository:
    ```bash
-   git clone https://github.com/your-repo-link.git
+   git clone https://github.com/SandipVermaDev/Telecom-Customer-Churn-EDA.git
    cd Telco-Customer-Churn-EDA
    ```
 2. Open the Jupyter Notebook and Run the Analysis:
